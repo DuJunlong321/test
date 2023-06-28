@@ -130,3 +130,10 @@ ssh-rsa AAAAB3NzaC1yc2。。。。。。。。。
 
 ![img](https://blog.liuguofeng.com/wp-content/uploads/2017/09/snipaste_20170927_151511.png)
 
+
+
+参考：
+
+http://blog.liuguofeng.com/p/3112
+
+https://blog.csdn.net/linxinfa/article/details/108730290
