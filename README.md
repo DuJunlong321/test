@@ -7,12 +7,23 @@
    ```
    echo "# 名称" >> README.md
    git init
-   git add README.md
+   git add README.md				下面
    git commit -m "first commit"
    git branch -M main
    git remote add origin git@github.com:czyhbo/test02.git
    git push -u origin main
    ```
+   
+   ```
+   以后进行更新项目只需：
+   git add -A     添加所有文件夹，一般来说，这样写就行
+   git commit -m "second commit" 把上一步add的文件进行提交，给一个提交名
+   git push -u origin main
+   ```
+   
+   
+
+
 
 如果没有SSH key,
 
